@@ -1,0 +1,29 @@
+# This file is used to tell Oblivion which data files to load.
+# Use the "data files" option in the Oblivion launcher to choose which files
+# you want.  Please do not modify this file.
+
+DLCBattlehornCastle - Unofficial Patch.esp
+DLCBattlehornCastle.esp
+DLCFrostcrag - Unofficial Patch.esp
+DLCFrostcrag.esp
+DLCHorseArmor - Unofficial Patch.esp
+DLCHorseArmor.esp
+DLCMehrunesRazor - Unofficial Patch.esp
+DLCMehrunesRazor.esp
+DLCOrrery - Unofficial Patch.esp
+DLCOrrery.esp
+DLCShiveringIsles.esp
+DLCSpellTomes - Unofficial Patch.esp
+DLCSpellTomes.esp
+DLCThievesDen - Unofficial Patch - SSSB.esp
+DLCThievesDen - Unofficial Patch.esp
+DLCThievesDen.esp
+DLCVileLair - Unofficial Patch.esp
+DLCVileLair.esp
+Knights - Unofficial Patch.esp
+Knights.esp
+Oblivion Citadel Door Fix.esp
+Oblivion.esm
+Unofficial Oblivion Patch.esp
+Unofficial Shivering Isles Patch.esp
+UOP Vampire Aging & Face Fix.esp
