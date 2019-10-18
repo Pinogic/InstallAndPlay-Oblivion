@@ -22,7 +22,7 @@ ArchiveInvalidation Invalidated!
 by Quarn
 https://www.nexusmods.com/oblivion/mods/10724
 
-PowerShell Script
+InstallAndPlay Script
 by Pino
 https://steamcommunity.com/id/PhilipPino
 ```
