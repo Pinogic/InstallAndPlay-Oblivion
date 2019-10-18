@@ -10,8 +10,8 @@ This Fix let you play the original Game on modern Systems without any problems o
 This script only works with the Steam Installation of "The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe"!
 
 1. Extract the 7z file
-2. Right click the "setup.ps1" file and choose "Run with PowerShell".
-3. Finish
+2. Right click "setup.ps1" and choose "Run with PowerShell".
+3. Finish : )
 ## Contributors
 ```
 Unofficial Oblivion Patches
