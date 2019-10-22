@@ -3,7 +3,6 @@ A simple way to update the game with the latest unofficial patches and fixes wit
 
 ## Install
 Only works with the Steam Installation of "The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe"!
-https://store.steampowered.com/app/900883
 
 1. Extract the 7z file
 2. Right click "setup.ps1" and choose "Run with PowerShell".
