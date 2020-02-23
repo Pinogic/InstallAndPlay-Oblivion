@@ -13,6 +13,8 @@ Only works with the Steam Installation of "The Elder Scrolls IV: Oblivion® Game
 - Fixed Plugin Load Order
 - Fixed the overall FPS lag/flicker
 - Fixed FPS drop at Oblivion gates
+- Lock the FPS to 60 (otherwise game speed is too fast)
+- Removed Hardware Detection from Launcher (no more config reset)
 - Pre-configured Ultra Settings (original) for "Install and Play"
 
 ## Credits
