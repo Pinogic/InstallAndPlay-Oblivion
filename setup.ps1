@@ -1,14 +1,19 @@
-Write-Host "### InstallAndPlay Oblivion"
 Write-Host ""
 Write-Host "Dou you want to Install this fix? If not simple close this window."
 Write-Host ""
 pause
+Write-Host ""
 
+Write-Host "Search game directory ..."
 $gamefolder = (Get-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 22330" -Name InstallLocation).InstallLocation
 
+Write-Host "Copy Config files ..."
 Copy-Item -Path "userprofile\*" -Destination "$env:USERPROFILE" -Recurse -Force
+
+Write-Host "Copy Patch files ..."
 Copy-Item -Path "Oblivion\*" -Destination "$gamefolder" -Recurse -Force
 
+Write-Host "Fix Load Order ..."
 (Get-Item "$gamefolder\Data\Oblivion.esm").LastWriteTime = "01/01/2006 00:00:00"
 (Get-Item "$gamefolder\Data\Unofficial Oblivion Patch.esp").LastWriteTime = "01/02/2006 00:00:00"
 (Get-Item "$gamefolder\Data\Oblivion Citadel Door Fix.esp").LastWriteTime = "01/03/2006 00:00:00"
